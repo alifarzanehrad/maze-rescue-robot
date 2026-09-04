@@ -1,0 +1,30 @@
+.DS_Store
+
+# Build artifacts
+*.o
+*.obj
+*.hex
+*.map
+*.cof
+*.asm
+*.elf
+*.lst
+*.eep
+*.bak
+*.exe
+
+# CodeVision / generated files
+*.arc
+*.cbi
+*.cci
+*.cwp
+*.fct
+*.hci
+
+# Backup files
+*~
+
+# Build directories
+Debug/
+Release/
+build/
