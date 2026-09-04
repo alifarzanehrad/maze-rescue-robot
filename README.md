@@ -177,13 +177,13 @@ Development went through many hardware tests and firmware iterations. The projec
 
 The historical source files are kept because they document the evolution of the project and the debugging process used on the original hardware.
 
-## Team project and contribution
+## My contribution
 
-This was a **team project**.
+This was a **team project**, but I wrote approximately **90% of the firmware** preserved in this repository.
 
-The repository is published as an archive of the technical work produced during that project. Individual responsibilities are not claimed for every subsystem in the codebase.
+My work covered most of the robot's embedded software, including major parts of the navigation and maze-memory logic, sensor interfacing, movement and turning routines, calibration code, ramp handling, and victim-detection behavior.
 
-A more detailed contribution breakdown can be added later if the original division of work is reconstructed with confidence.
+Other team members contributed to the overall robot project and development process, so this repository should still be understood as the result of a collaborative robotics effort rather than a solo project.
 
 ## Why this repository is archived
 
