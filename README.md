@@ -13,7 +13,7 @@ The robot was designed to explore a maze autonomously, detect walls and obstacle
 
 A development-era video of the physical robot is available on LinkedIn:
 
-[Watch the robot demo on LinkedIn](https://www.linkedin.com/posts/alii-farzaneh_%DB%8C%D8%A7%D8%AF%D9%85-%D9%85%DB%8C%D8%A7%D8%AF-%D9%85%DB%8C%D8%A7%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B2%D8%AD%D9%85%D8%AA-%DA%A9%D8%B4%DB%8C%D8%AF%DB%8C%D9%85-%D8%AA%D8%A7-%D8%A8%D9%87-activity-7259690621341167617-3mLk)
+[Watch the robot demo on LinkedIn](https://www.linkedin.com/posts/alii-farzaneh_%DB%8C%D8%A7%D8%AF%D9%85-%D9%85%DB%8C%D8%A7%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B2%D8%AD%D9%85%D8%AA-%DA%A9%D8%B4%DB%8C%D8%AF%DB%8C%D9%85-%D8%AA%D8%A7-%D8%A8%D9%87-activity-7259690621341167617-3mLk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ1R5EBln8NKW5Elea9kdeMdwfz4rEEBuA)
 
 ## What the robot implemented
 
